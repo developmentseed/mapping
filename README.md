@@ -1,13 +1,13 @@
 ## Mapping @ Development Seed
-Hey Visitor ✋, this is the place where you can find all [Data-team](https://wiki.openstreetmap.org/wiki/DevSeed-Data)'s contributions in OpenStreetMap. :world_map:
+:wave: Hey visitor, this is the place where you can find all [Data-team](https://wiki.openstreetmap.org/wiki/DevSeed-Data)'s contributions in OpenStreetMap. :world_map:
 
 - Mapping issues in progress: :rocket: :point_down: 
 
-https://github.com/developmentseed/mapping/issues?q=is%3Aopen+is%3Aissue
+   https://github.com/developmentseed/mapping/issues?q=is%3Aopen+is%3Aissue
 
 - Mapping issues completed: :hourglass: :point_down: 
 
-https://github.com/developmentseed/mapping/issues?q=is%3Aissue+is%3Aclosed
+   https://github.com/developmentseed/mapping/issues?q=is%3Aissue+is%3Aclosed
 
 Our Data-team is collectively responsible for more than 1 million edits on OpenStreetMap. Over the years, the team has made significant contributions to humanitarian data, such as:
 - [Helping map the Nepal Earthquake along side the Humanitarian OpenStreetMap community.](https://blog.mapbox.com/mapping-for-earthquake-response-in-nepal-b5fbb124494c)
